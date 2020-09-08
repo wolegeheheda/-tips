@@ -10,3 +10,5 @@ int x,y = 10
 x = (y<10) ? 30 : 40
 ```
 x为40
+
+https://www.nowcoder.com/discuss/496232?type=2&order=3&pos=27&page=1&channel=1009&source_id=discuss_tag
